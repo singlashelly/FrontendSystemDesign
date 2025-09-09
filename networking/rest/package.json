@@ -1,0 +1,25 @@
+{
+  "name": "frontendsystemdesign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singlashelly/FrontendSystemDesign.git"
+  },
+  "type":"module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singlashelly/FrontendSystemDesign/issues"
+  },
+  "homepage": "https://github.com/singlashelly/FrontendSystemDesign#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
